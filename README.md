@@ -11,9 +11,9 @@ See `pyproject.toml` for the required dependencies.
 
 ## Explanation of the code
 
-The code calculates correlation functions for a weak coherent pulse scattered by a giant atom coupled to a bidirectional waveguide. It is used to study how the competition between different scattering processes produces time-dependent switching between photon bunching and antibunching.
+The code calculates correlation functions for a weak coherent pulse scattered by a giant atom coupled to a bidirectional waveguide. It is used to study how the competition between different scattering processes using correlation functions and possible new physical phenomena.
 
-The scripts in `scripts/` reproduce the numerical results and figures presented in the paper, including the dependence of the photon statistics on the pulse width, the atomic lifetime, and the phase accumulated between the giant atom's coupling points.
+The scripts in `scripts/` reproduce the numerical results presented in the paper.
 
 **The code may contain bugs or other issues. Please feel free to report them. :smiley:**
 
